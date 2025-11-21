@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/SankalpGhasti-dev">
+                    <img src="https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;"
+                        alt="Sankalp Ghasti" />
+                    <br />
+                    <sub>
+                        <b>Sankalp Ghasti</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
