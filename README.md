@@ -1,21 +1,124 @@
 # Welcome to Open Source Contributions 🍉
 
-<p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
-    <li>Add a post on <b>LinkedIn</b> with the Repository's link and tagging the owner (Ali Solanki)</li>
-    <li>Add a <b>Tweet</b> with the Repository's link and tagging the owner (alisolankii)</li>
-    <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
-</p>
+This repository is designed to help beginners make their **first open-source contribution** and learn how to work with Git & GitHub.
+
+---
+
+## 🚨 VERY IMPORTANT (Optional Support)
+
+These steps are **optional** and only meant to support the creator:
+
+- Post about your contribution on **LinkedIn** and tag **Ali Solanki**
+- Tweet about your contribution tagging **@alisolankii**
+- Channel members get priority access → [Join Here](https://youtube.com/AliSolanki/join)
+
+---
+
+## 📺 Tutorial Video  
+Click the thumbnail below to watch the guide:
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
+        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg" width="60%"/>
     </a>
 </p>
 
-<p>List of actively participating individuals in open source contributions</p>
+---
 
-- Add your own details to the contributor list
-- Make a Pull Request
+## 🧑‍💻 How to Contribute (Beginner-Friendly Steps)
+
+Follow these steps to successfully make your first Pull Request:
+
+---
+
+### ✅ **Step 1 — Fork the Repository**
+
+Click the **Fork** button on the top-right.  
+This creates a copy of the project under your GitHub account.
+
+---
+
+### ✅ **Step 2 — Clone Your Fork**
+
+Open your terminal and run:
+
+```bash
+git clone https://github.com/<your-username>/Welcome-to-Open-Source.git
+cd Welcome-to-Open-Source
+```
+
+---
+
+### ✅ **Step 3 — Create a New Branch**
+
+Always make changes in a new branch:
+
+```bash
+git checkout -b add-your-name
+```
+
+---
+
+### ✅ **Step 4 — Add Your Details**
+
+Scroll to the end of the **README.md** file and add your contributor card using the format below:
+
+```html
+<td align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;" alt="Your Name" />
+    <br />
+    <sub><b>Your Name</b></sub>
+  </a>
+</td>
+```
+
+Replace:
+
+- `your-username`
+- `Your Name`
+- Add your own GitHub profile picture link if you want
+
+---
+
+### ✅ **Step 5 — Commit Your Changes**
+
+```bash
+git add .
+git commit -m "Add <your-name> 🍉"
+```
+
+---
+
+### ✅ **Step 6 — Push Your Branch**
+
+```bash
+git push origin add-your-name
+```
+
+---
+
+### ✅ **Step 7 — Create Pull Request**
+
+1. Go to your fork on GitHub  
+2. Click **Compare & Pull Request**  
+3. Add a small description  
+4. Submit the PR ✔  
+5. Wait for review and merge 🎉  
+
+---
+
+## 🔗 Helpful Guide  
+For more details, check the official CONTRIBUTING.md:
+
+👉 https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md
+
+---
+
+## 🎉 Congratulations  
+You are now an **open-source contributor**!
+
+
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
 <p align="center">
